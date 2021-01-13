@@ -1,0 +1,30 @@
+<div class="container d-flex h-100">
+    <div class="d-flex justify-content-center row align-items-center h-100 mx-auto">
+        <div class="card">
+            <div class="card-header">
+                <h1 class="text-center">
+                    Chat Room
+                </h1>
+            </div>
+            <div class="card-body">
+                <form action="/rooms.ejs" id="user-form" method="GET">
+                    <div class="form-group">
+                        <input type="text" name="username" id="username" class="form-control" placeholder="Enter Name" required>
+                    </div>
+                    <div class="my-1">
+                        <select class="custom-select mr-sm-2" id="rooms" name="rooms" required>
+                            <option selected value="JavaScript">JavaScript</option>
+                            <option value="Java">Java</option>
+                            <option value="C++">C++</option>
+                        </select>
+                    </div>
+                    <div class="form-group mt-4">
+                        <button  class="btn btn-info btn-block">Join</button>
+                    </div>
+                </form>
+            </div>
+        </div>    
+    </div>
+</div>
+
+<!-- window.back -->

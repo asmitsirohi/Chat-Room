@@ -1,0 +1,29 @@
+body {
+    font-family: 'Langar', cursive;
+}
+
+.card {
+    margin-top: 150px;
+}
+
+.memberName {
+    font-size: 20px;
+}
+
+#members {
+    max-height: 260px;
+    overflow: auto;
+}
+
+.main {
+    height: 485px;
+}
+
+#msgBox {
+    height: 330px;
+    overflow: auto;
+}
+
+select {
+    cursor: pointer;
+}
