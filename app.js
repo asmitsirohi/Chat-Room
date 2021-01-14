@@ -67,6 +67,6 @@ app.use('/', dashboardRouter);
 const roomsRouter = require('./src/routes/Rooms');
 app.use('/rooms.ejs', roomsRouter);
 
-const PORT = 2000 || process.env.PORT;
+const PORT = process.env.PORT || 2000;
 
 server.listen(PORT, () => console.log(`Server is running on port ${PORT}`));
