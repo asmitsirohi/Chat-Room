@@ -26,8 +26,8 @@ $ npm start
 
 ## Screenshots
 
-<img src="public/assets/screenShots/screenshot_1.png?raw=true" alt="Screenshot 1" height="100%"> 
-<img src="public/assets/screenShots/screenshot_2.png?raw=true" alt="Screenshot 2" height="100%"> 
-<img src="public/assets/screenShots/screenshot_3.png?raw=true" alt="Screenshot 3" height="100%"> 
-<img src="public/assets/screenShots/screenshot_4.png?raw=true" alt="Screenshot 4" height="100%">
-<img src="public/assets/screenShots/screenshot_5.png?raw=true" alt="Screenshot 5" height="100%">
+<img src="public/screenShots/screenshot_1.png?raw=true" alt="Screenshot 1" height="100%"> 
+<img src="public/screenShots/screenshot_2.png?raw=true" alt="Screenshot 2" height="100%"> 
+<img src="public/screenShots/screenshot_3.png?raw=true" alt="Screenshot 3" height="100%"> 
+<img src="public/screenShots/screenshot_4.png?raw=true" alt="Screenshot 4" height="100%">
+<img src="public/screenShots/screenshot_5.png?raw=true" alt="Screenshot 5" height="100%">
