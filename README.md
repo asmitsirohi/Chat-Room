@@ -31,3 +31,4 @@ $ npm start
 <img src="public/screenShots/screenshot_3.png?raw=true" alt="Screenshot 3" height="100%"> 
 <img src="public/screenShots/screenshot_4.png?raw=true" alt="Screenshot 4" height="100%">
 <img src="public/screenShots/screenshot_5.png?raw=true" alt="Screenshot 5" height="100%">
+<img src="public/screenShots/screenshot_6.png?raw=true" alt="Screenshot 6" height="100%">
